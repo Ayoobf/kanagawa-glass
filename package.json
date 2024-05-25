@@ -1,0 +1,21 @@
+{
+  "name": "kanagawa-glass",
+  "displayName": "kanagawa-glass",
+  "description": "Acrylic Kanagawa theme for use with Vibrancy",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kanagawa Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kanagawa Glass-color-theme.json"
+      }
+    ]
+  }
+}
