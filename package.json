@@ -7,6 +7,10 @@
   "author": {
     "name": "Ayoob"
   },
+  "homepage": "https://github.com/Ayoobf/kanagawa-glass/blob/master/README.md",
+  "bugs": {
+    "email": "rflooivl@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Ayoobf/kanagawa-glass"
@@ -21,7 +25,11 @@
     "acrylic",
     "glass"
   ],
-  "icon": "icon.png",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#a196ff",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
