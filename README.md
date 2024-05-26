@@ -1,16 +1,19 @@
-# kanagawa-glass README
+# Kanagawa Glass
 
-## Working with Markdown
+Slightly altered version of Kanagawa(<https://github.com/barklan/kanagawa.vscode>) for use with [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy). Heavily inspired by Jack-LP's [gruvbox-glass](https://github.com/Jack-LP/gruvbox-glass)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Theme Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+With [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
 
-## For more information
+![vibrancy_on](images/vibrancy_on.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Without Vibrancy 🤮
 
-**Enjoy!**
+![vibrancy_off](images/vibrancy_off.png)
+
+## Acknowledgments
+
+- [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+- [Kanagawa](https://github.com/barklan/kanagawa.vscode)
+- [gruvbox-glass](https://github.com/Jack-LP/gruvbox-glass)
