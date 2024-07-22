@@ -8,10 +8,6 @@ With [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-
 
 ![vibrancy_on](images/vibrancy_on.png)
 
-Without Vibrancy 🤮
-
-![vibrancy_off](images/vibrancy_off.png)
-
 ## Acknowledgments
 
 - [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
